@@ -1,0 +1,19 @@
+.header{
+    background-color: rgb(2, 20, 53);
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 30px;
+}
+
+.header a{
+    color: azure;
+    text-decoration: none;
+    font-size: 17px;
+    margin-left: 36px;
+}
+.header a:hover {
+    color: orange
+}
